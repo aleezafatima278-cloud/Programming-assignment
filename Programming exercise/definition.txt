@@ -1,1 +1,1 @@
-A child class inherits
+A child class inherits from parent class.
